@@ -1,0 +1,15 @@
+1.klik kanan setup.exe run as administrator
+2. klik use a file instalasi key selanjutnya klik next
+3.pada bagian Do you accept the terms of the license agreement? Klik yes lalu next
+4.pada file instalasi key matlab r2015a klik I have the file installation key for my license . kemudian buka polder crack buka file install.txt  masukan kode standalone 
+5.pada folder selection kalian pilih folder di mana tempat kalian ingin install selanjut nya next
+6. klik next pada product select
+7.Klik install  
+8. tunggu sampai proses install selesai .disini bias memakan waktu setengah jam lebih tergantung file instalasi yang kalian pilih
+9.setelah kalian selesai install buka folder bin,win 64. run as administrator file activate_matlab.exe
+10.selanjutnya aktivasi matlab klik active manual without internet .next
+11.pada offline activation klik nter the full path klik browse cari polder crack pada matlab pilih lic_standalone.dat
+12.activasi complete
+13.buka lagi file crack salin folder bin java toolbox paste dan replace ke folder madlab tempat kalian install
+14.terakir kalian jalan kan file matlab.exe pada folder bin tempat dimana kalian install .
+15. setelah bisa instal, klik tombol segitiga hijau dibagian atas untuk menjalankan program
